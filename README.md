@@ -1,16 +1,14 @@
-### Hi there 👋
+# ✨
 
-<!--
-**Artemisia-Absinthium/Artemisia-Absinthium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unpretentious code witch specialized in frontend and accessibility.
 
-Here are some ideas to get you started:
+Developing games and web applications since 2012.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am always on the lookout to improve user experiences and inclusivity, and I thrive on interrogating Softwares impact in our communities and making our industry a more open place.
+
+When I am not coding, you can find me organizing game Jams and hackathons, teaching programming to youth people and speaking about LGBT+ history.
+
+Recruiter: Do not contact me! I am NOT open to new positions!
+For other professional contacts: amelia@mysteriousfox.com
+
+She/Her
