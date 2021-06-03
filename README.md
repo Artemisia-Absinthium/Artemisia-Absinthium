@@ -1,6 +1,6 @@
 # ✨Hi, I am Amélia
 
-<img src="https://user-images.githubusercontent.com/27698924/120684964-9abf3b00-c49f-11eb-93a4-bdfab3eda8c1.png" alt="An Octocat drawing representing me. Purple hair, round gold glasses, a lesbian plaid shirt, converse and a Git Mate (Like club Mate) in my tentacle." width="400"/>
+<img src="https://user-images.githubusercontent.com/27698924/120684964-9abf3b00-c49f-11eb-93a4-bdfab3eda8c1.png" alt="An Octocat drawing representing me. Purple hair, round gold glasses, a lesbian plaid shirt, converse and a Git Mate (Like club Mate) in my tentacle." width="300"/>
 
 - Unpretentious code witch specialized in frontend and accessibility.
 - Developing games and web applications since 2012.
